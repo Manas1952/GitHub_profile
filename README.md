@@ -7,7 +7,7 @@
 
 ### Connect with me:
 
-[![website](./images/linkedinn.png)](https://www.linkedin.com/in/manas-purohit-217560220/)
+[![website](https://user-images.githubusercontent.com/72591998/148229773-ad8d4415-7433-4d9a-a243-5c82f5733ebd.png)](https://www.linkedin.com/in/manas-purohit-217560220/)
 
 ### Languages and Tools:
 
