@@ -11,17 +11,18 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][website]
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][website]
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][website]
-[<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />][website]
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][website]
-[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />][website]
-[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />][website]
-[<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />][website]
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][website]
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-light-mode-only)
+<img align="left" src="https://user-images.githubusercontent.com/72591998/148240552-4f4a2579-73c1-4c77-a0af-4da9a8f56ea6.png" width="30px"/>
+<img align="left" src="https://user-images.githubusercontent.com/72591998/148240634-2d78274f-596e-4c6a-843a-ec42ef8fef3a.png" width="30px"/>
+<img align="left" src="https://user-images.githubusercontent.com/72591998/148240686-6bd2a305-6e7a-495d-ac8a-035749dc7ffb.png" width="30px"/>
+<img align="left" src="https://user-images.githubusercontent.com/72591998/148240853-df2f4bc6-8ae4-4ee5-9fa7-6e03584a3573.png" width="30px"/>
+<img align="left" src="https://user-images.githubusercontent.com/72591998/148240890-a2f95f14-000e-4149-9ccc-6fac07eb3dda.png" width="30px"/>
+<img align="left" src="https://user-images.githubusercontent.com/72591998/148240894-012dcf0b-dacc-4b89-920f-849e7eed66fb.png" width="30px"/>
+<img align="left" src="https://user-images.githubusercontent.com/72591998/148240913-5c6e2f88-7095-4672-9d0d-04670ec7e236.png" width="40px"/>
+<img align="left" src="https://user-images.githubusercontent.com/72591998/148240923-1acf2abe-ed9f-4fb8-b76f-6192bf78cd4a.png" width="40px"/>
+<img align="left" src="https://user-images.githubusercontent.com/72591998/148240936-056f7881-7055-4db2-9b60-b6e03ba2e0d8.png" width="30px"/>
+<img align="left" src="https://user-images.githubusercontent.com/72591998/148240962-61381785-8257-4302-a9d9-0df21c84eab1.png" width="30px"/>
+<img align="left" src="https://user-images.githubusercontent.com/72591998/148240975-026db7c5-87cc-421b-9961-6bb65c72dc37.png" width="30px"/>
+<img align="left" src="https://user-images.githubusercontent.com/72591998/148246394-326de840-aaf1-4aef-9129-e6ea7348f025.png" width="30px"/>
 
 <br />
 <br />
