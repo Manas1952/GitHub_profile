@@ -9,6 +9,8 @@
 
 <a href="https://www.linkedin.com/in/manas-purohit-217560220/"><img align="left" src="https://user-images.githubusercontent.com/72591998/148229773-ad8d4415-7433-4d9a-a243-5c82f5733ebd.png" width="25px" /></a>
 
+<br/>
+
 ### Languages and Tools:
 
 <img align="left" src="https://user-images.githubusercontent.com/72591998/148240552-4f4a2579-73c1-4c77-a0af-4da9a8f56ea6.png" width="30px"/>
