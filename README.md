@@ -1,4 +1,3 @@
-<p align="center"><img src="https://user-images.githubusercontent.com/72591998/148253294-002f0e33-5459-47a4-b9f1-1e9526b73924.gif" /></p>
 
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Manas
 
