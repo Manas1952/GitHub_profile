@@ -1,8 +1,8 @@
-<p align="center"><img src="https://im5.ezgif.com/tmp/ezgif-5-2c6c8c77da.gif" /></p>
+<p align="center"><img src="./bg.gif" /></p>
 
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Manas
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everythings 🤣
 - 👯 I’m looking to collaborate with companies for internship
 - 🥅 2022 Goals: Learn more about NodeJS
 - ⚡ Fun fact: I love to draw and play badminton
